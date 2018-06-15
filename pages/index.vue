@@ -53,6 +53,7 @@
 
     <section class="sponsors">
       <div class="container">
+        <p>Sponsors</p>
         <div class="row justify-content-center">
           <div class="col-lg-3 col-md-6 col-sm-8">
             <a href="http://www.lonelymountain.ski/"><img src="~/assets/images/lms.png" alt="LMS" class="lms"></a>

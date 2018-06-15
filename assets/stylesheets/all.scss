@@ -81,12 +81,21 @@ figure {
 
 section.sponsors {
   background: #f0f0f0;
+  font-size: 90%;
   margin-top: 2rem;
-  padding: 0 0 1rem;
+  padding: 1rem 0;
+  position: relative;
   text-align: center;
+  p {
+    color: #ccc;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    text-transform: uppercase;
+  }
   img {
     padding: 2rem;
     max-width: 300px;
-    width: 100%;
+    width: 80%;
   }
 }
